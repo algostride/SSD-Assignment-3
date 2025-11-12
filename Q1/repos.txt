@@ -1,0 +1,26 @@
+Team 25: https://github.com/abhinavborah/vidyavichara-team25
+Team 14: https://github.com/geethamGT3RS/VidyaVichar
+Team 10: https://github.com/IIITH-2025-27/VidyaVichar
+Team 33: https://github.com/PrathyushaKalluri/VidyaVichar_Team33.git
+Team 24: https://github.com/Caerus256/VidyaVichar.git
+Team 29: https://github.com/Rajkjain03/VidyaVichar-Classroom-Q-A-sticky-board
+Team 32: https://github.com/nradhakrishna/vidya-vichaar
+Team 16: https://github.com/leocodeio/vidya-vichar-iiith-ssd-26-sep-25-mid-hackathon
+Team 27: https://github.com/a-n-u-p-a-m/Group_27_SSD_MID_LAB  
+Team 26: https://github.com/incredibleharsh021/Vidya-Vichar.git
+Team 28: https://github.com/Ishaan-Giri/VidyaVichar.git
+Team 13: https://github.com/guptamanali0/VidhyaVichaar.git
+Team 5: https://github.com/PranjalSK03/Vidya_Vichar_group5.git
+Team 21: https://github.com/Yogesh-Narasimha/SSD_MID_group_21.git
+Team 31: https://github.com/SSD-MidSem-Hackathon/VidhyaVichar
+Team 22: https://github.com/shadesin/VidyaVichar
+Team 20: https://github.com/sumitgk2003/VidyaVichar_SSD_M25_G20
+
+# Team 06: https://github.com/aayush18602/SSD_MidSem/tree/kavan1 -- diff branch
+# git clone --single-branch --branch kavan1 https://github.com/aayush18602/SSD_MidSem.git team6_vidyavichar
+
+# Team 03: https://github.com/Sahoo-Achyutananda/vidya-vichar/tree/test -- diff branch
+# git clone --single-branch --branch test https://github.com/Sahoo-Achyutananda/vidya-vichar.git team3_vidyavichar
+
+# Team 17: https://github.com/anudeepbutha/VidyaVichar_main -- no such repo
+# Team 2: https://github.com/Sankalp0109/VidhyaVichar -- no such repo

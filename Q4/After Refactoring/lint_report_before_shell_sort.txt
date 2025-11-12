@@ -1,0 +1,18 @@
+Sorting_Package/__init__.py:1:0: C0103: Module name "Sorting_Package" doesn't conform to snake_case naming style (invalid-name)
+************* Module Sorting_Package.main
+Sorting_Package/main.py:6:0: E0401: Unable to import 'src.sort_factory' (import-error)
+************* Module Sorting_Package.src.sort_factory
+Sorting_Package/src/sort_factory.py:41:16: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+************* Module Sorting_Package.src.merge_sort
+Sorting_Package/src/merge_sort.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module Sorting_Package.src.base_sort
+Sorting_Package/src/base_sort.py:9:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module Sorting_Package.src.quick_sort
+Sorting_Package/src/quick_sort.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module Sorting_Package.src.selection_sort
+Sorting_Package/src/selection_sort.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module Sorting_Package.src.bubble_sort
+Sorting_Package/src/bubble_sort.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 9.32/10
