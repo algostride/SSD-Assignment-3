@@ -3,7 +3,7 @@
 Files:
 - exceptions.py : custom exception classes
 - octal_calculator.py : main implementation
-- test_cases.py : unit tests (unittest)
+- test_cases.py : tests
 
 Requirements & Assumptions:
 - Python 3.8+
